@@ -1,7 +1,7 @@
 # Preprocessing Teks Ulasan E-commerce Berbahasa Indonesia
 
-- **Nama:** Khairur Rahman
-- **NIM:** 24146116
+- **Nama:** Resti Febriani
+- **NIM:** 24146104
 ## Deskripsi Project
 
 Project ini melakukan **preprocessing teks ulasan produk e-commerce berbahasa
