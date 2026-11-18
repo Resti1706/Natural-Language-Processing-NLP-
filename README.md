@@ -2,9 +2,6 @@
 
 - **Nama:** Khairur Rahman
 - **NIM:** 24146116
-- **GitHub:** https://github.com/khairurrahman24146116-ai/SIF301-Natural-Language-Preprocessing
-- **Mata kuliah:** Natural Language Processing (NLP)
-
 ## Deskripsi Project
 
 Project ini melakukan **preprocessing teks ulasan produk e-commerce berbahasa
